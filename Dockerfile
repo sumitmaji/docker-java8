@@ -1,4 +1,4 @@
-FROM sumit/base:latest
+FROM sumit/ldap-client
 MAINTAINER Sumit Kumar Maji
 
 WORKDIR /usr/local/
